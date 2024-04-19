@@ -234,7 +234,6 @@ position: relative;
 }
 .fh5co-slider-outer .item img {
   height: 400px;
-  width: 200px;
   object-fit: contain;
 }
 
