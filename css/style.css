@@ -532,8 +532,7 @@ display: inline-block;
   color: #fff;
 }
 .footer-outer .column-2-3 {
-  width: 60%;
-  float: left;
+ 
   height: 80px;
 }
 .footer-outer .column-3-3 {
