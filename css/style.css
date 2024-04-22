@@ -534,7 +534,7 @@ display: inline-block;
 .footer-outer .column-2-3 {
   width: 60%;
   float: left;
-  height: 50px;
+  height: 80px;
 }
 .footer-outer .column-3-3 {
   width: 20%;
@@ -916,7 +916,7 @@ display: inline-block;
   }
 
   .footer-outer .column-2-3 {
-    width: 100%;
+    width: 94%;
     float: none;
     height: auto;
   }
@@ -939,7 +939,7 @@ display: inline-block;
     margin: 0 auto;
     border: 1px solid #434769;
     display: block;
-    margin-top: 100px;
+    margin-top: 150px;
   }
 }
 @media screen and (max-width: 520px) {
