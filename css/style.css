@@ -518,9 +518,13 @@ position: relative;
   justify-content: center; /* Centra horizontalmente los elementos en el contenedor */
 }
 .footer-outer .column-1-3 img {
-    max-width: 60%; /* Ajusta el ancho máximo de la imagen */
-  height: auto; /* Para mantener la proporción de la imagen */
-display: inline-block; 
+
+  max-width: 100%; /* Cambia el máximo a 100% para que la imagen se ajuste al contenedor */
+  height: auto;
+  display: block; /* Cambia a block para evitar problemas de alineación */
+  margin: 0 auto; /* Centra la imagen horizontalmente */
+
+
 }
 .footer-outer .column-1-3 h1 {
   font-size: 38px;
